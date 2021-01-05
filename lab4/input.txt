@@ -1,0 +1,3 @@
+Hagrid:Physics
+Ron:English
+Harry:Computer Science

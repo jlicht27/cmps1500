@@ -1,0 +1,14 @@
+Jonathan Licht
+Lab 6 part 4
+
+
+https://www.youtube.com/watch?v=-seCW0T3gHs
+
+
+In this competition, students had to build a robot that could build a model fertilizer tower and model irrigation channel. The winner is chosen by which robot made the model fertilizer tower and model irrigation channel that worked the best. The video didn't say anything about speed but it probably plays a role if two robots create things that are comparable.
+
+
+https://codingcompetitions.withgoogle.com/codejam/about/
+
+
+In this competition, there are multiple rounds in which programmers have a certain amount of time to find a solution to a problem or problems. A certain amount of points are awarded for responses in each round. Contestants who have the most points make it to the next round. Until there is a winner. Points are awarded based on if the submitted solution actually solves the problem if it is submitted within the time requirement.
