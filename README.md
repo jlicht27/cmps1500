@@ -1,2 +1,3 @@
 # cmps1500
-Course work from Intro to Computer Science I
+
+Includes the course work from Intro to Computer Science I. All programs are written in python.
